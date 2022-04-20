@@ -17,8 +17,8 @@ To write a program to implement the simple linear regression model for predictin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: SAKTHI AISHWARYA .S
+RegisterNumber:  212219040132
 */
 ```
 
