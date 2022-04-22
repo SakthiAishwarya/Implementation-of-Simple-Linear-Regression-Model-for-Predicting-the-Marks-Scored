@@ -23,7 +23,7 @@ RegisterNumber:  212219040132
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![simple linear regression model for predicting the marks scored](./images/2.jpg)
 
 
 ## Result:
