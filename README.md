@@ -19,7 +19,6 @@ To write a program to implement the simple linear regression model for predictin
 5.Predict the regression for marks by using the representation of the graph.
 
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
- 
 
 ## Program:
 ```
@@ -57,16 +56,11 @@ plt.title("h vs s (Testing Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
-
 */
 ```
-
 ## Output:
 ![image](https://user-images.githubusercontent.com/67967960/169561620-8b8c6cc1-67a3-4536-8db4-329d25d18a5a.png)
 ![image](https://user-images.githubusercontent.com/67967960/169561734-3f75d175-eae6-4c18-8bce-0650752ee1f9.png)
-
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
